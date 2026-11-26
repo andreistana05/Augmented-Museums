@@ -1,3 +1,16 @@
 {
-    "stefan_cel_mare": { "name": "Stefan cel Mare", "description": "Descrierea lui Stefan cel Mare"}
+  "stefan_cel_mare": {
+    "name": "Ștefan cel Mare",
+    "type": "3d",
+    "description": "Descriere scurtă, vizibilă imediat.",
+    "details": ["Detaliu istoric 1", "Detaliu istoric 2"],
+    "mindTarget": null
+  },
+  "tablou_exemplu": {
+    "name": "Titlul tabloului",
+    "type": "2d",
+    "description": "Descriere scurtă.",
+    "details": ["Context istoric", "Despre autor"],
+    "mindTarget": "tablou_exemplu.mind"
+  }
 }
